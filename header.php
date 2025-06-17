@@ -2,14 +2,14 @@
 	<div class="container-fluid d-flex justify-content-between align-content-center">
 		<div>
 			<span>
-				<a href="javascript:void(0)"><i class="fa fa-facebook mr-2"></i></a>
+				<!-- <a href="javascript:void(0)"><i class="fa fa-facebook mr-2"></i></a> -->
 				<a href="https://www.instagram.com/dcs_textiles/" target="_blank"><i class="fa fa-instagram mr-2"></i></a>
 				<a href="https://in.linkedin.com/company/dcs-textiles" target="_blank"><i class="fa fa-linkedin mr-2"></i></a>
 			</span>
 		</div>
 		<div>
 			<span  class="d-none d-lg-inline-block">
-				<a href="mailto:info@dcstextiles.com"><i class="fa fa-envelope ml-3 mr-2"></i>info@dcstextiles.com</a>
+				<a href="mailto:admin@dcstextiles.com"><i class="fa fa-envelope ml-3 mr-2"></i>admin@dcstextiles.com</a>
 				<a href="tel:919466455811"><i class="fa fa-phone ml-2 mr-2"></i>+91-9466455811</a>
 			</span>
 			
