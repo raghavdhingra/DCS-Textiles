@@ -49,17 +49,17 @@
                 <div class="col-lg-6">
                     <div class="contact-info">
                         <h3>Info</h3>
-                        <a href="mailto:3c.sales.service@gmail.com">
+                        <a href="mailto:admin@dcstextiles.com">
                             <span class="fa fa-envelope-o"></span>
-                            sourabh@dcstextiles.com
+                            admin@dcstextiles.com
                         </a>
-                        <a href="tel:+91 9466455811">
+                        <a href="tel:+919466455811">
                             <span class="fa fa-phone"></span>
                             +91 9466455811
                         </a>
-                        <a href="tel:+91 7082556775">
+                        <a href="tel:+91918053531395">
                             <span class="fa fa-phone"></span>
-                            +91 7082556775
+                            +91 918053531395
                         </a>
                         <a href="javascript:void(0)">
                             <span class="fa fa-map-marker"></span>

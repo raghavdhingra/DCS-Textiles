@@ -10,7 +10,7 @@
 		<div>
 			<span  class="d-none d-lg-inline-block">
 				<a href="mailto:admin@dcstextiles.com"><i class="fa fa-envelope ml-3 mr-2"></i>admin@dcstextiles.com</a>
-				<a href="tel:919466455811"><i class="fa fa-phone ml-2 mr-2"></i>+91-9466455811</a>
+				<a href="tel:+919466455811"><i class="fa fa-phone ml-2 mr-2"></i>+91-9466455811</a>
 			</span>
 			
 		</div>
