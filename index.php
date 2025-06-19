@@ -108,7 +108,7 @@
 				<div class="col-lg-4 col-md-4 mb-4">
 					<div class="card text-md-left text-center">
 						<div class="card-top-img">
-							<img src="https://ucarecdn.com/b5fe55b7-c2f9-496c-bb3d-37c1c2dc1d2d/WhatsAppImage20250616at12734PM2.jpeg" class="img-fluid" alt="">
+							<img src="https://ucarecdn.com/945c0d16-aa73-4069-b3ca-b2450e375c39/WhatsAppImage20250616at12708PM.jpeg" class="img-fluid" alt="">
 							<div class="black"></div>
 							<h3 class="product-name text-uppercase">dining area</h3>
 						</div>
