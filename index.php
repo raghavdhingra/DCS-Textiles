@@ -42,7 +42,7 @@
 									<i class="fi-rr-shopping-cart"></i>
 								</div>
 								<div class="">
-									<strong class="d-block"></strong>
+									<strong class="d-block">21+ Countries</strong>
 								</div>
 							</div>
 						</div>
@@ -52,7 +52,7 @@
 									<i class="fi-rr-users"></i>
 								</div>
 								<div class="">
-									<strong class="d-block">On Time Delivery</strong>
+									<strong class="d-block">200+ Rug <br> Collection</strong>
 								</div>
 							</div>
 						</div>
@@ -62,7 +62,7 @@
 									<i class="fi-rr-comment"></i>
 								</div>
 								<div class="">
-									<strong class="d-block">Export <br> Quality</strong>
+									<strong class="d-block">15+ <br> Quality</strong>
 								</div>
 							</div>
 						</div>
@@ -94,7 +94,7 @@
 
 	<section class="popular-products">
 		<div class="container">
-			<h3 class="mb-4 heading text-center">DCS Textiles</h3>
+			<!-- <h3 class="mb-4 heading text-center">DCS Textiles</h3> -->
 			<div class="row">
 				<div class="col-lg-4 col-md-4 mb-4">
 					<div class="card text-md-left text-center">
@@ -108,7 +108,7 @@
 				<div class="col-lg-4 col-md-4 mb-4">
 					<div class="card text-md-left text-center">
 						<div class="card-top-img">
-							<img src="https://ucarecdn.com/945c0d16-aa73-4069-b3ca-b2450e375c39/WhatsAppImage20250616at12708PM.jpeg" class="img-fluid" alt="">
+							<img src="https://ucarecdn.com/4ca1db93-cb4d-49af-959f-0345b9f464a9/diningarea1.jpeg" class="img-fluid" alt="">
 							<div class="black"></div>
 							<h3 class="product-name text-uppercase">dining area</h3>
 						</div>
