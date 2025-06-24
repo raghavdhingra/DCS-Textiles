@@ -29,20 +29,20 @@
                     <div class="contact-form">
                         <h3>Contact Us</h3>
                         <p>Feel free to contact us any time. We will get back to you as soon as we can</p>
-                        <form action="">
+                        <form action="send_mail.php" method="POST">
                             <div class="form-group">
-                                <input type="text" placeholder="Name" class="form-control" required>
+                                <input type="text" name="name" placeholder="Name" class="form-control" required>
                             </div>
                             <div class="form-group">
-                                <input type="email" placeholder="Email Id" class="form-control">
+                                <input type="email" name="email" placeholder="Email Id" class="form-control">
                             </div>
                             <div class="form-group">
-                                <input type="tel" placeholder="Phone Number" class="form-control">
+                                <input type="tel" name="phone" placeholder="Phone Number" class="form-control">
                             </div>
                             <div class="form-group">
-                                <textarea name="" placeholder="Message" class="form-control" rows="4"></textarea>
+                                <textarea name="message" placeholder="Message" class="form-control" rows="4"></textarea>
                             </div>
-                            <button class="contactBtn">Submit</button>
+                            <button class="contactBtn" type="submit">Submit</button>
                         </form>
                     </div>
                 </div>

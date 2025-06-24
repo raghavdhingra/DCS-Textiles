@@ -28,7 +28,7 @@
 			<ul class="navbar-nav ml-auto">
 				<li class="nav-item"> <a class="nav-link" href="./">Home </a> </li>
 				<li class="nav-item dropdown">
-					<a class="nav-link  dropdown-toggle" href="#" data-toggle="dropdown"> Our Products </a>
+					<a class="nav-link  dropdown-toggle" href="#" data-toggle="dropdown">Products</a>
 					<ul class="dropdown-menu fade-up">
 						<li><a class="dropdown-item" href="./products">Handmade Carpets and Rugs</a></li>
 						<li><a class="dropdown-item" href="./products">Handmade cushion covers </a></li>
@@ -44,10 +44,10 @@
 						<li><a class="dropdown-item" href="./products">Loom Products</a></li>
 					</ul>
 				</li>
-				<li class="nav-item "> <a class="nav-link" href="./story">Our Story </a> </li>
-				<li class="nav-item "> <a class="nav-link" href="./infrastructure">Infrastructure </a> </li>
-				<li class="nav-item "> <a class="nav-link" href="./about">About Us </a> </li>
-				<li class="nav-item"> <a class="nav-link" href="./contact">Contact Us </a> </li>
+				<li class="nav-item "> <a class="nav-link" href="./story">About</a> </li>
+				<li class="nav-item "> <a class="nav-link" href="./infrastructure">Blog</a> </li>
+				<!-- <li class="nav-item "> <a class="nav-link" href="./about">About Us </a> </li> -->
+				<li class="nav-item"> <a class="nav-link" href="./contact">Contact</a> </li>
 			</ul>
 
 		</div>
