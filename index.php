@@ -99,9 +99,9 @@
 				<div class="col-lg-4 col-md-4 mb-4">
 					<div class="card text-md-left text-center">
 						<div class="card-top-img">
-							<img src="https://ucarecdn.com/6ec2ba37-05c7-4af4-ade1-e5af7c26efe1/WhatsAppImage20250616at12747PM2.jpeg" class="img-fluid" alt="">
+							<img src="https://ucarecdn.com/fa54fbe8-7e25-40a4-acf1-27b39f3f1210/livingroom11.jpeg" class="img-fluid" alt="">
 							<div class="black"></div>
-							<h3 class="product-name text-uppercase">living rooms</h3>
+							<h3 class="product-name text-uppercase">living room</h3>
 						</div>
 					</div>
 				</div>
