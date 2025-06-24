@@ -17,7 +17,7 @@
 	<div id="slide" class="carousel slide carousel-fade" data-ride="carousel">
 		<div class="carousel-inner">
 			<div class="carousel-item active pt-md-0 pt-4">
-				<img class="d-block img-fluid" src="images/box01-bg-desktop.jpg" alt="First slide">
+				<img class="d-block img-fluid" src="https://ucarecdn.com/bc3f5620-b2cb-4946-ab19-ebefefbfd81c/designcheck.png" alt="First slide">
 			</div>
 			<div class="carousel-item pt-md-0 pt-4">
 				<img class="d-block img-fluid" src="images/slider2.png" alt="First slide">
@@ -42,7 +42,7 @@
 									<i class="fi-rr-shopping-cart"></i>
 								</div>
 								<div class="">
-									<strong class="d-block">Customization Available</strong>
+									<strong class="d-block"></strong>
 								</div>
 							</div>
 						</div>
@@ -117,7 +117,7 @@
 				<div class="col-lg-4 col-md-4 mb-4">
 					<div class="card text-md-left text-center">
 						<div class="card-top-img">
-							<img src="https://ucarecdn.com/385a5ade-d91a-426e-961d-87d5e14a039c/WhatsAppImage20250616at12749PM2.jpeg" class="img-fluid" alt="">
+							<img src="https://ucarecdn.com/385a5ade-d91a-426e-961d-87d5e14a039c/WhatsAppImage20250616at12749PM2.jpeg>
 							<div class="black"></div>
 							<h3 class="product-name text-uppercase">bathroom area</h3>
 						</div>
@@ -128,7 +128,7 @@
 		</div>
 	</section>
 
-	<section class="promo-banner py-md-5 py-3">
+	<!-- <section class="promo-banner py-md-5 py-3">
 		<div class="container">
 			<h3 class="mb-5 heading text-center">DCS Textiles</h3>
 			<div class="row">
@@ -148,8 +148,8 @@
 							<li><p class="about-para text-justify">Our creative designs have love and warmth at their core, our
 								originality is distinct, our vision is unique, only then are we
 							able to handcraft values - not just a carpet.</p></li>
-						</ul>
-					</div>
+						</ul> -->
+					</p>
 				</div>
 			</div>
 			<div class="col-lg-7 col-md-7 col-12 pl-md-0 pr-0">
@@ -231,7 +231,7 @@
 							<div class="promob-col">
 								<div class="promo-box text-center">
 									<img src="images/p1.jpeg" class="img-fluid" alt="">
-									<h3 class="product-name text-uppercase">Rugs & Carpets</h3>
+									<h3 class="product-name text-uppercase">Rugs</h3>
 								</div>
 							</div>
 						</a>
@@ -241,7 +241,7 @@
 							<div class="promob-col">
 								<div class="promo-box text-center">
 									<img src="images/p2.jpeg" class="img-fluid" alt="">
-									<h3 class="product-name text-uppercase">cushion cover</h3>
+									<h3 class="product-name text-uppercase">Throws</h3>
 								</div>
 							</div>
 						</a>
@@ -251,7 +251,7 @@
 							<div class="promob-col">
 								<div class="promo-box text-center">
 									<img src="images/p3.jpeg" class="img-fluid" alt="">
-									<h3 class="product-name text-uppercase">throws</h3>
+									<h3 class="product-name text-uppercase">POUFS and OTTOMANS</h3>
 								</div>
 							</div>
 						</a>
@@ -261,7 +261,7 @@
 							<div class="promob-col">
 								<div class="promo-box text-center">
 									<img src="images/p4.jpeg" class="img-fluid" alt="">
-									<h3 class="product-name text-uppercase">pouf and ottomans</h3>
+									<h3 class="product-name text-uppercase">BASKETS</h3>
 								</div>
 							</div>
 						</a>
@@ -271,7 +271,7 @@
 							<div class="promob-col">
 								<div class="promo-box text-center">
 									<img src="images/p5.jpeg" class="img-fluid" alt="">
-									<h3 class="product-name text-uppercase">Bath Mats</h3>
+									<h3 class="product-name text-uppercase">PLACEMATS</h3>
 								</div>
 							</div>
 						</a>
@@ -281,7 +281,7 @@
 							<div class="promob-col">
 								<div class="promo-box text-center">
 									<img src="images/p6.jpeg" class="img-fluid" alt="">
-									<h3 class="product-name text-uppercase">Placemats</h3>
+									<h3 class="product-name text-uppercase">RUNNER</h3>
 								</div>
 							</div>
 						</a>
@@ -291,7 +291,7 @@
 							<div class="promob-col">
 								<div class="promo-box text-center">
 									<img src="images/p7.jpeg" class="img-fluid" alt="">
-									<h3 class="product-name text-uppercase">Jute Products</h3>
+									<h3 class="product-name text-uppercase">CARPETS</h3>
 								</div>
 							</div>
 						</a>
@@ -301,7 +301,7 @@
 							<div class="promob-col">
 								<div class="promo-box text-center">
 									<img src="images/p8.jpeg" class="img-fluid" alt="">
-									<h3 class="product-name text-uppercase">Outdoor Textiles</h3>
+									<h3 class="product-name text-uppercase">CUSHIONS</h3>
 								</div>
 							</div>
 						</a>
@@ -341,20 +341,20 @@
 					<div class="contact-form">
 						<h3>Contact Us</h3>
 						<p>Feel free to contact us any time. We will get back to you as soon as we can</p>
-						<form action="send_mail.php" method="POST">
+						<form action="">
 							<div class="form-group">
-								<input type="text" name="name" placeholder="Name" class="form-control" required>
+								<input type="text" placeholder="Name" class="form-control" required>
 							</div>
 							<div class="form-group">
-								<input type="email" name="email" placeholder="Email Id" class="form-control">
+								<input type="email" placeholder="Email Id" class="form-control">
 							</div>
 							<div class="form-group">
-								<input type="tel" name="phone" placeholder="Phone Number" class="form-control">
+								<input type="tel" placeholder="Phone Number" class="form-control">
 							</div>
 							<div class="form-group">
-								<textarea name="message" placeholder="Message" class="form-control" rows="4"></textarea>
+								<textarea name="" placeholder="Message" class="form-control" rows="4"></textarea>
 							</div>
-							<button class="contactBtn" type="submit">Submit</button>
+							<button class="contactBtn">Submit</button>
 						</form>
 					</div>
 				</div>
