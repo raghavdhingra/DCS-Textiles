@@ -231,7 +231,7 @@
 							<div class="promob-col">
 								<div class="promo-box text-center">
 									<img src="images/p1.jpeg" class="img-fluid" alt="">
-									<h3 class="product-name text-uppercase">Rugs</h3>
+									<h3 class="product-name text-uppercase">RUGS</h3>
 								</div>
 							</div>
 						</a>
@@ -241,7 +241,7 @@
 							<div class="promob-col">
 								<div class="promo-box text-center">
 									<img src="images/p2.jpeg" class="img-fluid" alt="">
-									<h3 class="product-name text-uppercase">Throws</h3>
+									<h3 class="product-name text-uppercase">THROWS</h3>
 								</div>
 							</div>
 						</a>
