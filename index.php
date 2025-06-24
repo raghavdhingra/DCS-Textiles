@@ -94,7 +94,7 @@
 
 	<section class="popular-products">
 		<div class="container">
-			<h3 class="mb-4 heading text-center">DCS Textiles</h3>
+			<h3 class="mb-4 heading text-center">DCS Textiles yoyo</h3>
 			<div class="row">
 				<div class="col-lg-4 col-md-4 mb-4">
 					<div class="card text-md-left text-center">
