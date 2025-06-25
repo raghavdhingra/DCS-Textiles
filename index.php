@@ -117,6 +117,15 @@
 				<div class="col-lg-4 col-md-4 mb-4">
 					<div class="card text-md-left text-center">
 						<div class="card-top-img">
+							<img src="https://ucarecdn.com/4ca1db93-cb4d-49af-959f-0345b9f464a9/diningarea1.jpeg" class="img-fluid" alt="">
+							<div class="black"></div>
+							<h3 class="product-name text-uppercase">dining area</h3>
+						</div>
+					</div>
+				</div>
+				<div class="col-lg-4 col-md-4 mb-4">
+					<div class="card text-md-left text-center">
+						<div class="card-top-img">
 							<img src="https://ucarecdn.com/8099082f-c9b1-4e84-bf93-c7d0229da822/bathroom1.jpg" class="img-fluid" alt="">
 							<div class="black"></div>
 							<h3 class="product-name text-uppercase">bathroom area</h3>
