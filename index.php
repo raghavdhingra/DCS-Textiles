@@ -342,10 +342,10 @@
 	
 	<section class="missionvision py-5">
 		<div class="container">
-			<h3 class="mb-5 heading text-center">Infrastructure</h3>
+			<h3 class="mb-5 heading text-center">OUR STRENGHTH</h3>
 			<div class="row mt-3">
 				<div class="col-lg-5 d-flex align-items-center justify-content-center">
-					<img src="https://ucarecdn.com/23918a72-5398-4543-a7f3-a22e1eb252ca/infra.jpg" class="img-fluid">
+					<img src="https://ucarecdn.com/55c4fd53-0f34-487e-b261-483fa54832d2/infra1.jpg" class="img-fluid">
 				</div>
 				<div class="col-lg-7">
 					<ul style="list-style: auto; text-align: justify;">
@@ -416,7 +416,7 @@
 			<h3 class="mb-4 heading text-center">OUR CERTIFICATIONS</h3>
 			<div class="owl-carousel owl-theme" id="ourCustomers">
 				<div class="item">
-					<img src="images/customers/1.jpg" alt="">
+					<img src="https://ucarecdn.com/ed907948-1c8d-4d22-8d93-594d84251927/cert.jpg" alt="">
 				</div>
 				<div class="item">
 					<img src="images/customers/2.jpg" alt="">
