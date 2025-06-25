@@ -349,15 +349,15 @@
 				</div>
 				<div class="col-lg-7">
 					<ul style="list-style: auto; text-align: justify;">
-						<li class="mb-3">Manufacturing Unit: DCS Textiles operates several facilities in the textile city of Panipat, India, encompassing an area of over 100,000+ square feet.</li>
-						<li class="mb-3">In-House Production: The organization employs a diverse array of machinery, including power looms and pit looms, which are managed by skilled weavers under professional supervision to ensure the highest quality output.</li>
-						<li class="mb-3"><B>Artisan Network</B>: DCS Textiles has a family of 300+ skilled weavers from various states across India, who collectively exhibit their exceptional craftsmanship.</li>
-						<li class="mb-3">High quality Mink Blanket with production around 10000 kg per day.</li>
-						<li class="mb-3">Carpet handloom and tufted with capacity225000 per square feet per month</li>
-						<li class="mb-3">High quality, exquisite punja and pit loom rugs 150000 per square feet per month.</li>
-						<li class="mb-3">Bath rugs/mats minimum in house yield 200000 sq. feet per month..</li>
-						<li class="mb-3">Other then this having great potential for production of all types of home décor, cushion cover, pillow, sham, table linen ,bed linen, kitchen linen, pouf, baskets, bean bag, blanket etc.</li>
-						<li class="mb-3">Checking, Finishing & Packaging, weaving all in state of art facility strictly in house coping up stern International standards</li>
+						<li class="mb-3"><B>Manufacturing Unit:</B> DCS Textiles operates several facilities in the textile city of Panipat, India, encompassing an area of over 100,000+ square feet.</li>
+						<li class="mb-3"><B>In-House Production:</B> The organization employs a diverse array of machinery, including power looms and pit looms, which are managed by skilled weavers under professional supervision to ensure the highest quality output.</li>
+						<li class="mb-3"><B>Artisan Network:</B> DCS Textiles has a family of 300+ skilled weavers from various states across India, who collectively exhibit their exceptional craftsmanship.</li>
+						<li class="mb-3"><B>Skilled Personnel:</B> The company has a workforce of over 50+ talented individuals who contribute to every phase of product development, ensuring optimal results.</li>
+						<li class="mb-3"><B>Sampling:</B> DCS Textiles consistently pursues innovative strategies to enhance its offerings, focusing on custom design, sampling, and trend development to meet evolving market demands.</li>
+						<li class="mb-3"><B>Quality Control:</B> The organization's director asserts, “A product of inferior quality is not a product.” Accordingly, a dedicated team is assigned to uphold rigorous standards that align with global export criteria.</li>
+						<li class="mb-3"><B>Compliance:</B> Attaining certification fosters trust among stakeholders. DCS Textiles has secured these certifications without any challenge, due to its ethical management practices and commitment to environmentally sustainable production methodologies.</li>
+						<!-- <li class="mb-3">Other then this having great potential for production of all types of home décor, cushion cover, pillow, sham, table linen ,bed linen, kitchen linen, pouf, baskets, bean bag, blanket etc.</li> -->
+						<!-- <li class="mb-3">Checking, Finishing & Packaging, weaving all in state of art facility strictly in house coping up stern International standards</li> -->
 					</ul>
 				</div>
 			</div>
@@ -369,7 +369,7 @@
 				<div class="col-lg-6">
 					<div class="contact-form">
 						<h3>Contact Us</h3>
-						<p>Feel free to contact us any time. We will get back to you as soon as we can</p>
+						<p>Feel free to contact us and let's get busy getting to know each other.</p>
 						<form action="">
 							<div class="form-group">
 								<input type="text" placeholder="Name" class="form-control" required>
@@ -404,7 +404,7 @@
 						</a>
 						<a href="javascript:void(0)">
 							<span class="fa fa-map-marker"></span>
-							Kacha Railway Phatak Patti Insar, Panipat-Haryana-132103
+							Hari Nagar, Patti Insar, Panipat, Haryana-132103
 						</a>
 					</div>
 				</div>
