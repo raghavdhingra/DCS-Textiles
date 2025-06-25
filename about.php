@@ -23,12 +23,8 @@
         <div class="row">
             <div class="col-md-12 mb-4">
                 <div class="card about-content">
-                    <p class="about-para">Our company is introduced after a success of our yarn spinning mill,
-                        serving the textile industry for more than 30 years. We manufacture
-                        woolen yarn for carpets and rugs. We also manufacture nylon and
-                        polyester yarns by using recycled raw material. We aim to continue and
-                        expand the legacy of manufacturing and creativity given as a gift by our
-                        forefathers.
+                    <p class="about-para">A small family-run weaving unit with just five looms has made a name for itself, not only in our home country but also among discerning rug enthusiasts in the USA, Canada, Europe, and beyond.</p>
+                        <p> Currently, having multiple units in Panipat, DCS Textiles has established a strong presence in international home decor markets, becoming an export house for carpet and other home furnishing products.
                     </p>
                 </div>
             </div>
