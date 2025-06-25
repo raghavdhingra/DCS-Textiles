@@ -52,7 +52,7 @@
 									<i class="fi-rr-users"></i>
 								</div>
 								<div class="">
-									<strong class="d-block">200+ Rug <br> Collection</strong>
+									<strong class="d-block">Customer<br> Oriented</strong>
 								</div>
 							</div>
 						</div>
@@ -62,7 +62,7 @@
 									<i class="fi-rr-comment"></i>
 								</div>
 								<div class="">
-									<strong class="d-block">15+ <br> Quality</strong>
+									<strong class="d-block">15+ Active <br>Clients</strong>
 								</div>
 							</div>
 						</div>
@@ -72,7 +72,7 @@
 									<i class="fi-rr-credit-card"></i>
 								</div>
 								<div class="">
-									<strong class="d-block">Made In <br> India</strong>
+									<strong class="d-block">Customized<br> MOQ</strong>
 								</div>
 							</div>
 						</div>
@@ -82,7 +82,7 @@
 									<i class="fi-rr-time-twenty-four"></i>
 								</div>
 								<div class="">
-									<strong class="d-block">Shipping Worldwide</strong>
+									<strong class="d-block">Made in India</strong>
 								</div>
 							</div>
 						</div>
