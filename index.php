@@ -250,7 +250,7 @@
 							<div class="promob-col">
 								<div class="promo-box text-center">
 									<img src="images/p2.jpeg" class="img-fluid" alt="">
-									<h3 class="product-name text-uppercase">THROWS</h3>
+									<h3 class="product-name text-uppercase">BATHMATS</h3>
 								</div>
 							</div>
 						</a>
@@ -271,6 +271,16 @@
 								<div class="promo-box text-center">
 									<img src="images/p3.jpeg" class="img-fluid" alt="">
 									<h3 class="product-name text-uppercase">POUFS and OTTOMANS</h3>
+								</div>
+							</div>
+						</a>
+					</div>
+					<div class="col-lg-3 col-md-3 col-6 py-3">
+						<a href="./products">
+							<div class="promob-col">
+								<div class="promo-box text-center">
+									<img src="images/p3.jpeg" class="img-fluid" alt="">
+									<h3 class="product-name text-uppercase">TOWELS</h3>
 								</div>
 							</div>
 						</a>
@@ -339,7 +349,7 @@
 				</div>
 				<div class="col-lg-7">
 					<ul style="list-style: auto; text-align: justify;">
-						<li class="mb-3">DCS Textiles direct manufacturing and marketing operations stretch over 1,00,000 sq.ft. area across city of handloom Panipat,with work force more than 350 personal.</li>
+						<li class="mb-3">Manufacturing Unit: DCS Textiles operates several facilities in the textile city of Panipat, India, encompassing an area of over 100,000 square feet.</li>
 						<li class="mb-3">Our production facility is equipped with state-of-the-art machineries and we work very closely with a diverse network of vendors from different parts of India to cater to the needs of our design centric customers worldwide.</li>
 						<li class="mb-3">All Under One Roof strictly..</li>
 						<li class="mb-3">High quality Mink Blanket with production around 10000 kg per day.</li>
