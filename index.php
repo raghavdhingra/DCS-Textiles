@@ -96,12 +96,12 @@
 		<div class="container">
 			<!-- <h3 class="mb-4 heading text-center">DCS Textiles</h3> -->
 			<div class="row">
-			<div class="col-lg-4 col-md-4 mb-4">
-				<div class="card text-md-left text-center">
-					<div class="card-top-img">
-						<img src="https://ucarecdn.com/fa54fbe8-7e25-40a4-acf1-27b39f3f1210/livingroom11.jpeg" class="img-fluid" alt="">
-						<div class="black"></div>
-						<h3 class="product-name text-uppercase">living room</h3>
+				<div class="col-lg-4 col-md-4 mb-4">
+					<div class="card text-md-left text-center">
+						<div class="card-top-img">
+							<img src="https://ucarecdn.com/04ebe392-40fc-4be1-8fe4-fa238ca07181/lr1.jpeg" class="img-fluid" alt="">
+							<div class="black"></div>
+							<h3 class="product-name text-uppercase">living room</h3>
 						</div>
 					</div>
 				</div>
@@ -117,7 +117,7 @@
 				<div class="col-lg-4 col-md-4 mb-4">
 					<div class="card text-md-left text-center">
 						<div class="card-top-img">
-							<img src="https://ucarecdn.com/85b67ff0-612e-4a7e-9200-c96d9b7de035/outdoorarea1.jpg" class="img-fluid" alt="">
+							<img src="https://ucarecdn.com/85b67ff0-612e-4a7e-9200-c96d9b7de035/outdoorarea1.jpeg" class="img-fluid" alt="">
 							<div class="black"></div>
 							<h3 class="product-name text-uppercase">Outdoor area</h3>
 						</div>
@@ -126,7 +126,7 @@
 				<div class="col-lg-4 col-md-4 mb-4">
 					<div class="card text-md-left text-center">
 						<div class="card-top-img">
-							<img src="https://ucarecdn.com/8099082f-c9b1-4e84-bf93-c7d0229da822/bathroom1.jpg" class="img-fluid" alt="">
+							<img src="https://ucarecdn.com/8099082f-c9b1-4e84-bf93-c7d0229da822/bathroom1.jpeg" class="img-fluid" alt="">
 							<div class="black"></div>
 							<h3 class="product-name text-uppercase">bathroom area</h3>
 						</div>
@@ -164,7 +164,7 @@
 			<div class="col-lg-7 col-md-7 col-12 pl-md-0 pr-0">
 				<div class="promob-col">
 					<div class="promo-boxs text-center">
-						<img src="images/prodcat.png" class="img-fluid" alt="">
+						<!-- <img src="images/prodcat.png" class="img-fluid" alt=""> -->
 					</div>
 				</div>
 			</div>
@@ -241,6 +241,16 @@
 								<div class="promo-box text-center">
 									<img src="images/p1.jpeg" class="img-fluid" alt="">
 									<h3 class="product-name text-uppercase">RUGS</h3>
+								</div>
+							</div>
+						</a>
+					</div>
+					<div class="col-lg-3 col-md-3 col-6 py-3">
+						<a href="./products">
+							<div class="promob-col">
+								<div class="promo-box text-center">
+									<img src="images/p2.jpeg" class="img-fluid" alt="">
+									<h3 class="product-name text-uppercase">THROWS</h3>
 								</div>
 							</div>
 						</a>
