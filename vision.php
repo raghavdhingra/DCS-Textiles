@@ -25,8 +25,8 @@
                     <div class="card">
                         <h4>Vision</h4>
                         <ul>
-                            <li>To Grow and sustained leadership position in all our chosen line of business.</li>
-                            <li>To win the respect from all our stakeholders</li>
+                            <p><b>Redefining elegance with handmade rugs from India</b></p>
+                            <p>At DCS Textiles, we envision redefining elegance through exquisite rugs that captivate and lead in authentic, handcrafted home furnishings worldwide.</p>
                         </ul>
                     </div>
                 </div>
