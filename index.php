@@ -345,7 +345,7 @@
 			<h3 class="mb-5 heading text-center">Infrastructure</h3>
 			<div class="row mt-3">
 				<div class="col-lg-5 d-flex align-items-center justify-content-center">
-					<img src="./images/infra.jpg" class="img-fluid">
+					<img src="https://ucarecdn.com/23918a72-5398-4543-a7f3-a22e1eb252ca/infra.jpg" class="img-fluid">
 				</div>
 				<div class="col-lg-7">
 					<ul style="list-style: auto; text-align: justify;">
@@ -413,7 +413,7 @@
 	</section>
 	<section class="our-customers py-5">
 		<div class="container">
-			<h3 class="mb-4 heading text-center">LIST OF KEY CUSTOMERS</h3>
+			<h3 class="mb-4 heading text-center">OUR CERTIFICATIONS</h3>
 			<div class="owl-carousel owl-theme" id="ourCustomers">
 				<div class="item">
 					<img src="images/customers/1.jpg" alt="">
