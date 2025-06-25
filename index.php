@@ -96,12 +96,12 @@
 		<div class="container">
 			<!-- <h3 class="mb-4 heading text-center">DCS Textiles</h3> -->
 			<div class="row">
-				<div class="col-lg-4 col-md-4 mb-4">
-					<div class="card text-md-left text-center">
-						<div class="card-top-img">
-							<img src="https://ucarecdn.com/fa54fbe8-7e25-40a4-acf1-27b39f3f1210/livingroom11.jpeg" class="img-fluid" alt="">
-							<div class="black"></div>
-							<h3 class="product-name text-uppercase">living room</h3>
+			<div class="col-lg-4 col-md-4 mb-4">
+				<div class="card text-md-left text-center">
+					<div class="card-top-img">
+						<img src="https://ucarecdn.com/fa54fbe8-7e25-40a4-acf1-27b39f3f1210/livingroom11.jpeg" class="img-fluid" alt="">
+						<div class="black"></div>
+						<h3 class="product-name text-uppercase">living room</h3>
 						</div>
 					</div>
 				</div>
@@ -117,9 +117,9 @@
 				<div class="col-lg-4 col-md-4 mb-4">
 					<div class="card text-md-left text-center">
 						<div class="card-top-img">
-							<img src="https://ucarecdn.com/4ca1db93-cb4d-49af-959f-0345b9f464a9/diningarea1.jpeg" class="img-fluid" alt="">
+							<img src="https://ucarecdn.com/85b67ff0-612e-4a7e-9200-c96d9b7de035/outdoorarea1.jpg" class="img-fluid" alt="">
 							<div class="black"></div>
-							<h3 class="product-name text-uppercase">dining area</h3>
+							<h3 class="product-name text-uppercase">Outdoor area</h3>
 						</div>
 					</div>
 				</div>
