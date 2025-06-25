@@ -349,9 +349,9 @@
 				</div>
 				<div class="col-lg-7">
 					<ul style="list-style: auto; text-align: justify;">
-						<li class="mb-3">Manufacturing Unit: DCS Textiles operates several facilities in the textile city of Panipat, India, encompassing an area of over 100,000 square feet.</li>
-						<li class="mb-3">Our production facility is equipped with state-of-the-art machineries and we work very closely with a diverse network of vendors from different parts of India to cater to the needs of our design centric customers worldwide.</li>
-						<li class="mb-3">All Under One Roof strictly..</li>
+						<li class="mb-3">Manufacturing Unit: DCS Textiles operates several facilities in the textile city of Panipat, India, encompassing an area of over 100,000+ square feet.</li>
+						<li class="mb-3">In-House Production: The organization employs a diverse array of machinery, including power looms and pit looms, which are managed by skilled weavers under professional supervision to ensure the highest quality output.</li>
+						<li class="mb-3"><B>Artisan Network</B>: DCS Textiles has a family of 300+ skilled weavers from various states across India, who collectively exhibit their exceptional craftsmanship.</li>
 						<li class="mb-3">High quality Mink Blanket with production around 10000 kg per day.</li>
 						<li class="mb-3">Carpet handloom and tufted with capacity225000 per square feet per month</li>
 						<li class="mb-3">High quality, exquisite punja and pit loom rugs 150000 per square feet per month.</li>
