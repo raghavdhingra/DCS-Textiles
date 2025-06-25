@@ -117,7 +117,7 @@
 				<div class="col-lg-4 col-md-4 mb-4">
 					<div class="card text-md-left text-center">
 						<div class="card-top-img">
-							<img src="https://ucarecdn.com/385a5ade-d91a-426e-961d-87d5e14a039c/WhatsAppImage20250616at12749PM2.jpeg" class="img-fluid" alt="">
+							<img src="https://ucarecdn.com/8099082f-c9b1-4e84-bf93-c7d0229da822/bathroom1.jpg" class="img-fluid" alt="">
 							<div class="black"></div>
 							<h3 class="product-name text-uppercase">bathroom area</h3>
 						</div>
