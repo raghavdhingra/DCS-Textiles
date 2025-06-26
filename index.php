@@ -17,7 +17,7 @@
 	<div id="slide" class="carousel slide carousel-fade" data-ride="carousel">
 		<div class="carousel-inner">
 			<div class="carousel-item active pt-md-0 pt-4">
-				<img class="d-block img-fluid" src="https://ucarecdn.com/4b83d4c7-c165-4373-99ed-a16af72a47c7/lastchk.jpg" alt="First slide">
+				<img class="d-block img-fluid" src="https://ucarecdn.com/71c7ad02-3042-4ada-b1b6-777e11c04946/main.jpeg" alt="First slide">
 			</div>
 			<div class="carousel-item pt-md-0 pt-4">
 				<img class="d-block img-fluid" src="images/slider2.png" alt="First slide">
@@ -416,7 +416,7 @@
 			<h3 class="mb-4 heading text-center">OUR CERTIFICATIONS</h3>
 			<div class="owl-carousel owl-theme" id="ourCustomers">
 				<div class="item">
-					<img src="https://ucarecdn.com/ed907948-1c8d-4d22-8d93-594d84251927/cert.jpg" alt="">
+					<img src="images/customers/1.jpg" alt="">
 				</div>
 				<div class="item">
 					<img src="images/customers/2.jpg" alt="">
