@@ -17,10 +17,10 @@
 	<div id="slide" class="carousel slide carousel-fade" data-ride="carousel">
 		<div class="carousel-inner">
 			<div class="carousel-item active pt-md-0 pt-4">
-				<img class="d-block img-fluid" src="https://ucarecdn.com/6cc5177c-e129-4b69-bffb-a18d9abf42b8/mm.jpeg" alt="First slide">
+				<img class="d-block img-fluid" src="https://ucarecdn.com/b0ed5255-c9f3-4a2c-9a6a-3ddd0f543de3/mm1.jpeg" alt="First slide">
 			</div>
 			<div class="carousel-item pt-md-0 pt-4">
-				<img class="d-block img-fluid" src="images/slider2.png" alt="First slide">
+				<img class="d-block img-fluid" src="https://ucarecdn.com/cef0d727-ffb8-4538-8bc3-91d3e8e00ed1/m21.jpeg" alt="First slide">
 			</div>
 		</div>
 		<a class="carousel-control-prev" href="#slide" role="button" data-slide="prev">
