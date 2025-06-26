@@ -17,7 +17,7 @@
 	<div id="slide" class="carousel slide carousel-fade" data-ride="carousel">
 		<div class="carousel-inner">
 			<div class="carousel-item active pt-md-0 pt-4">
-				<img class="d-block img-fluid" src="https://ucarecdn.com/71c7ad02-3042-4ada-b1b6-777e11c04946/main.jpeg" alt="First slide">
+				<img class="d-block img-fluid" src="https://ucarecdn.com/6cc5177c-e129-4b69-bffb-a18d9abf42b8/mm.jpeg" alt="First slide">
 			</div>
 			<div class="carousel-item pt-md-0 pt-4">
 				<img class="d-block img-fluid" src="images/slider2.png" alt="First slide">
