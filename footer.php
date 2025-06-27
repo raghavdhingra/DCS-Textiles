@@ -4,11 +4,12 @@
             <div class="col-lg-3 col-md-4">
                 <div class="footer-about">
                     <img src="images/3c-logo-white.png" height="40" alt="">
-                    <p class="mb-md-0 mb-2">Our company is introduced after a success of our yarn spinning mill, serving the textile industry for more than 30 years.</p>
+                    <p class="mb-md-0 mb-2"><b>Let’s Co-Create With You:</b></p>
+                    <p>You bring the idea. We bring the loom, the color, the yarn, and the know-how to bring it to life — be it custom rugs, made-to-order textiles, or bulk manufacturing.</p>
                 </div>
             </div>
             <div class="col-lg-3 col-md-4">
-                <h4 class="footer-heading mb-md-0 mb-3">Ouick Links</h4>
+                <!-- <h4 class="footer-heading mb-md-0 mb-3">Ouick Links</h4> -->
                 <ul class="footer-links">
                     <li>
                         <a href="./">Home</a>
@@ -25,7 +26,7 @@
                 </ul>
             </div>
             <div class="col-lg-3 col-md-4">
-                <h4 class="footer-heading mb-md-0 mb-3">Library</h4>
+                <!-- <h4 class="footer-heading mb-md-0 mb-3">Library</h4> -->
                 <ul class="footer-links">
                     <li>
                         <a href="./mission">Our Mission</a>
@@ -34,15 +35,15 @@
                         <a href="./vision">Our vision</a>
                     </li>
                     <li>
-                        <a href="javascript:void(0)">Privacy Policy</a>
+                        <!-- <a href="javascript:void(0)">Privacy Policy</a> -->
                     </li>
                     <li>
-                        <a href="javascript:void(0)">Terms & Conditions</a>
+                        <!-- <a href="javascript:void(0)">Terms & Conditions</a> -->
                     </li>
                 </ul>
             </div>
             <div class="col-lg-3 col-md-5">
-                <h4 class="footer-heading mb-md-0 mb-3">Conneted With Us</h4>
+                <h4 class="footer-heading mb-md-0 mb-3">Connect With Us</h4>
                 <form class="footer-form">
                     <div class="form-group">
                         <input type="email" placeholder="Email Id" class="form-control" required>
