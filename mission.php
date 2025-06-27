@@ -14,7 +14,7 @@
 
     <section class="hero-section">
         <div class="container">
-            <h4>Our Vision</h4>
+            <h4>Our Mission</h4>
         </div>
     </section>
 
@@ -25,9 +25,9 @@
                     <div class="card">
                         <h4>Mission</h4>
                         <ul>
-                            <li>Accelerate growth with focus on new products & Services</li>
-                            <li>Enhance customer satisfaction to the highest level in all businesses</li>
-                            <li>Achieve business excellence through a process of continual improvement</li>
+                            <p><b>Crafting quality rugs for over 51 countries</b></p>
+                            <p>At DCS Textiles, we are on a mission to craft excellence in every rug we create through meticulous attention to detail and to deliver timeless, artisan-made textiles with care and quality.</p>
+                            <!-- <li>Achieve business excellence through a process of continual -->
                         </ul>
                     </div>
                 </div>
