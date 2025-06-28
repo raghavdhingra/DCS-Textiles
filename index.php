@@ -345,7 +345,7 @@
 	
 	<section class="missionvision py-5">
 		<div class="container">
-			<h3 class="mb-5 heading text-center">OUR STRENGHTH</h3>
+			<h3 class="mb-5 heading text-center">OUR STRENGTH</h3>
 			<div class="row mt-3">
 				<div class="col-lg-5 d-flex align-items-center justify-content-center">
 					<img src="https://ucarecdn.com/55c4fd53-0f34-487e-b261-483fa54832d2/infra1.jpg" class="img-fluid">
@@ -392,10 +392,14 @@
 				</div>
 				<div class="col-lg-6">
 					<div class="contact-info">
-						<h3>Info</h3>
+						<h3>Quick Contacts </h3>
 						<a href="mailto:admin@dcstextiles.com">
 							<span class="fa fa-envelope-o"></span>
 							admin@dcstextiles.com
+						</a>
+						<a href="mailto:ajay@dcstextiles.com">
+							<span class="fa fa-envelope-o"></span>
+							ajay@dcstextiles.com
 						</a>
 						<a href="tel:+919466455811">
 							<span class="fa fa-phone"></span>

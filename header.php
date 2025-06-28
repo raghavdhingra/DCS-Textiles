@@ -26,28 +26,28 @@
 		</button>
 		<div class="collapse navbar-collapse" id="main_nav">
 			<ul class="navbar-nav ml-auto">
-				<li class="nav-item"> <a class="nav-link" href="./">Home </a> </li>
+				<li class="nav-item"> <a class="nav-link" href="./"><b>Home</b> </a> </li>
 				<li class="nav-item dropdown">
-					<a class="nav-link  dropdown-toggle" href="#" data-toggle="dropdown">Products</a>
+					<a class="nav-link  dropdown-toggle" href="#" data-toggle="dropdown"><b>Products</b></a>
 					<ul class="dropdown-menu fade-up">
-						<li><a class="dropdown-item" href="./products">Handmade Carpets and Rugs</a></li>
-						<li><a class="dropdown-item" href="./products">Handmade cushion covers </a></li>
-						<li><a class="dropdown-item" href="./products">Bath mats </a></li>
-						<li><a class="dropdown-item" href="./products">Door mats</a></li>
-						<li><a class="dropdown-item" href="./products">Poufs and stools</a></li>
-						<li><a class="dropdown-item" href="./products">Kitchen textiles</a></li>
-						<li><a class="dropdown-item" href="./products">Tabletops</a></li>
-						<li><a class="dropdown-item" href="./products">SSpinning yarn</a></li>
-						<li><a class="dropdown-item" href="./products">Nylon,PET, Wool yarn</a></li>
-						<li><a class="dropdown-item" href="./products">Handmade runners</a></li>
-						<li><a class="dropdown-item" href="./products">Tufted Rugs and carpets</a></li>
-						<li><a class="dropdown-item" href="./products">Loom Products</a></li>
+						<li><a class="dropdown-item" href="./products">Rugs</a></li>
+						<li><a class="dropdown-item" href="./products">Cushions </a></li>
+						<li><a class="dropdown-item" href="./products">Throws </a></li>
+						<li><a class="dropdown-item" href="./products">Poufs</a></li>
+						<li><a class="dropdown-item" href="./products">Carpets</a></li>
+						<li><a class="dropdown-item" href="./products">Placemats</a></li>
+						<li><a class="dropdown-item" href="./products">Baskets</a></li>
+						<li><a class="dropdown-item" href="./products">Towels</a></li>
+						<li><a class="dropdown-item" href="./products">Runner</a></li>
+						<li><a class="dropdown-item" href="./products">Bathmats</a></li>
+						<!-- <li><a class="dropdown-item" href="./products">Tufted Rugs and carpets</a></li> -->
+						<!-- <li><a class="dropdown-item" href="./products">Loom Products</a></li> -->
 					</ul>
 				</li>
-				<li class="nav-item "> <a class="nav-link" href="./story">About</a> </li>
-				<li class="nav-item "> <a class="nav-link" href="./infrastructure">Blog</a> </li>
+				<li class="nav-item "> <a class="nav-link" href="./story"><b>About</b></a> </li>
+				<li class="nav-item "> <a class="nav-link" href="./infrastructure"><b>Blog</b></a> </li>
 				<!-- <li class="nav-item "> <a class="nav-link" href="./about">About Us </a> </li> -->
-				<li class="nav-item"> <a class="nav-link" href="./contact">Contact</a> </li>
+				<li class="nav-item"> <a class="nav-link" href="./contact"><b>Contact</b></a> </li>
 			</ul>
 
 		</div>
