@@ -59,7 +59,7 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-6 text-md-left text-center">
-                <p class="mb-0">© Copyright 2024, All Rights Reserved</p>
+                <p class="mb-0">© Copyright 2025, All Rights Reserved</p>
             </div>
             <div class="col-lg-6 text-md-right text-center">
                 <a href="#">

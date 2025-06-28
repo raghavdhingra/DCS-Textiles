@@ -22,6 +22,9 @@
 			<div class="carousel-item pt-md-0 pt-4">
 				<img class="d-block img-fluid" src="https://ucarecdn.com/cef0d727-ffb8-4538-8bc3-91d3e8e00ed1/m21.jpeg" alt="First slide">
 			</div>
+			<div class="carousel-item pt-md-0 pt-4">
+				<img class="d-block img-fluid" src="https://ucarecdn.com/a9d0b797-7d3a-4b0b-be2a-346c9a383b95/m3.jpeg" alt="First slide">
+			</div>
 		</div>
 		<a class="carousel-control-prev" href="#slide" role="button" data-slide="prev">
 			<i class="fi-rr-angle-small-left"></i>
