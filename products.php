@@ -1,3 +1,21 @@
+<?php
+$allowedCategories = [
+    'rugs', 'baskets', 'bathmats', 'carpets',
+    'cushions', 'placemats', 'poufs-and-ottomans',
+    'runners', 'throws', 'towels'
+];
+
+$productSlug = null;
+
+$category = null;
+if (preg_match('/\/product\/([a-zA-Z0-9\-]+)/', $_SERVER['REQUEST_URI'], $matches)) {
+    $slug = $matches[1];
+    if (in_array($slug, $allowedCategories)) {
+        $category = $slug;
+    }
+}
+?>
+
 <!DOCTYPE html>
 <html lang="en">
 
@@ -12,7 +30,7 @@
 
 <body>
    <?php include('header.php') ?>
-   <section class="hero-section">
+   <section class="hero-section" style="margin-top: 0; height: 200px;">
     <div class="container">
         <h4>Products</h4>
     </div>
@@ -33,24 +51,196 @@
 
             <div class="col-lg-12 pt-2 grid-container">
                 <div class="demo-gallery container-fluid">
-                    <ul id="lightgallery" class="text-center">
-                        <?php 
-                        for ($i=1; $i < 38; $i++) { ?> 
-                            <li data-responsive="images/p<?php echo $i; ?>.jpeg" data-src="images/p<?php echo $i; ?>.jpeg">
-                                <a href="">
-                                    <img class="img-responsive" src="images/p<?php echo $i; ?>.jpeg">
-                                    <div class="demo-gallery-poster">
-                                        <img src="https://sachinchoolur.github.io/lightgallery.js/static/img/zoom.png">
-                                    </div>
-                                </a>
-                            </li>
-                        <?php } ?>
-                    </ul>
+                    <ul id="lightgallery" class="text-center"></ul>
                 </div>
+                <div id="invalid-section-container"></div>
             </div>
         </div>
     </div>
 </section>
+
+<script>
+    const invalidSection = `
+    	<section class="promo-banner py-md-5  pt-0">
+		<div class="container">
+			<h3 class="mb-5 heading text-center">Product Category</h3>
+			<div class="row">
+					<!-- Rugs -->
+					<div class="col-lg-3 col-md-3 col-6 py-3">
+						<a href="./products?category=rugs">
+							<div class="promob-col">
+								<div class="promo-box text-center">
+									<img src="images/p1.jpeg" class="img-fluid" alt="Rugs">
+									<h3 class="product-name text-uppercase">RUGS</h3>
+								</div>
+							</div>
+						</a>
+					</div>
+
+					<!-- Bathmats -->
+					<div class="col-lg-3 col-md-3 col-6 py-3">
+						<a href="./products?category=bathmats">
+							<div class="promob-col">
+								<div class="promo-box text-center">
+									<img src="images/p2.jpeg" class="img-fluid" alt="Bathmats">
+									<h3 class="product-name text-uppercase">BATHMATS</h3>
+								</div>
+							</div>
+						</a>
+					</div>
+
+					<!-- Throws -->
+					<div class="col-lg-3 col-md-3 col-6 py-3">
+						<a href="./products?category=throws">
+							<div class="promob-col">
+								<div class="promo-box text-center">
+									<img src="images/p2.jpeg" class="img-fluid" alt="Throws">
+									<h3 class="product-name text-uppercase">THROWS</h3>
+								</div>
+							</div>
+						</a>
+					</div>
+
+					<!-- Poufs and Ottomans -->
+					<div class="col-lg-3 col-md-3 col-6 py-3">
+						<a href="./products?category=poufs-and-ottomans">
+							<div class="promob-col">
+								<div class="promo-box text-center">
+									<img src="images/p3.jpeg" class="img-fluid" alt="Poufs and Ottomans">
+									<h3 class="product-name text-uppercase">POUFS and OTTOMANS</h3>
+								</div>
+							</div>
+						</a>
+					</div>
+
+					<!-- Towels -->
+					<div class="col-lg-3 col-md-3 col-6 py-3">
+						<a href="./products?category=towels">
+							<div class="promob-col">
+								<div class="promo-box text-center">
+									<img src="images/p3.jpeg" class="img-fluid" alt="Towels">
+									<h3 class="product-name text-uppercase">TOWELS</h3>
+								</div>
+							</div>
+						</a>
+					</div>
+
+					<!-- Baskets -->
+					<div class="col-lg-3 col-md-3 col-6 py-3">
+						<a href="./products?category=baskets">
+							<div class="promob-col">
+								<div class="promo-box text-center">
+									<img src="images/p4.jpeg" class="img-fluid" alt="Baskets">
+									<h3 class="product-name text-uppercase">BASKETS</h3>
+								</div>
+							</div>
+						</a>
+					</div>
+
+					<!-- Placemats -->
+					<div class="col-lg-3 col-md-3 col-6 py-3">
+						<a href="./products?category=placemats">
+							<div class="promob-col">
+								<div class="promo-box text-center">
+									<img src="images/p5.jpeg" class="img-fluid" alt="Placemats">
+									<h3 class="product-name text-uppercase">PLACEMATS</h3>
+								</div>
+							</div>
+						</a>
+					</div>
+
+					<!-- Runners -->
+					<div class="col-lg-3 col-md-3 col-6 py-3">
+						<a href="./products?category=runners">
+							<div class="promob-col">
+								<div class="promo-box text-center">
+									<img src="images/p6.jpeg" class="img-fluid" alt="Runners">
+									<h3 class="product-name text-uppercase">RUNNER</h3>
+								</div>
+							</div>
+						</a>
+					</div>
+
+					<!-- Carpets -->
+					<div class="col-lg-3 col-md-3 col-6 py-3">
+						<a href="./products?category=carpets">
+							<div class="promob-col">
+								<div class="promo-box text-center">
+									<img src="images/p7.jpeg" class="img-fluid" alt="Carpets">
+									<h3 class="product-name text-uppercase">CARPETS</h3>
+								</div>
+							</div>
+						</a>
+					</div>
+
+					<!-- Cushions -->
+					<div class="col-lg-3 col-md-3 col-6 py-3">
+						<a href="./products?category=cushions">
+							<div class="promob-col">
+								<div class="promo-box text-center">
+									<img src="images/p8.jpeg" class="img-fluid" alt="Cushions">
+									<h3 class="product-name text-uppercase">CUSHIONS</h3>
+								</div>
+							</div>
+						</a>
+					</div>
+
+					<!-- Cushions -->
+					<div class="col-lg-3 col-md-3 col-6 py-3">
+						<a href="./products?category=cushions">
+							<div class="promob-col">
+								<div class="promo-box text-center">
+									<img src="images/p8.jpeg" class="img-fluid" alt="Cushions">
+									<h3 class="product-name text-uppercase">CUSHIONS</h3>
+								</div>
+							</div>
+						</a>
+					</div>
+
+					<!-- Cushions -->
+					<div class="col-lg-3 col-md-3 col-6 py-3">
+						<a href="./products?category=cushions">
+							<div class="promob-col">
+								<div class="promo-box text-center">
+									<img src="images/p8.jpeg" class="img-fluid" alt="Cushions">
+									<h3 class="product-name text-uppercase">CUSHIONS</h3>
+								</div>
+							</div>
+						</a>
+					</div>
+			</div>
+		</div>
+	</section>`;
+    const allowedCategories = [
+        'rugs', 'baskets', 'bathmats', 'carpets',
+        'cushions', 'placemats', 'poufs-and-ottomans',
+        'runners', 'throws', 'towels'
+    ];
+
+    const categoryFromURL = window.location.search.split('=')[1];
+
+    if (!allowedCategories.includes(categoryFromURL)) {
+        document.getElementById('invalid-section-container').innerHTML = invalidSection;
+    } else {
+        const gallery = document.getElementById('lightgallery');
+        for (let i = 1; i < 38; i++) {
+            const imgPath = `images/product/${categoryFromURL}/p${i}.jpeg`;
+            const li = document.createElement('li');
+            li.setAttribute('data-responsive', imgPath);
+            li.setAttribute('data-src', imgPath);
+            li.innerHTML = `
+                <a href="">
+                    <img class="img-responsive" src="${imgPath}" onerror="this.onerror=null; this.src='images/coming-soon.jpg'">
+                    <div class="demo-gallery-poster">
+                        <img src="https://sachinchoolur.github.io/lightgallery.js/static/img/zoom.png">
+                    </div>
+                </a>
+            `;
+            gallery.appendChild(li);
+        }
+    }
+</script>
+
 
 <?php include('preloader.php') ?>
 <?php include('footer.php') ?>

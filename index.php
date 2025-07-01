@@ -96,10 +96,10 @@
 	</section>
 
 	<section class="popular-products">
-		<div class="container">
+		<div class="container" style="max-width: 1600px;">
 			<!-- <h3 class="mb-4 heading text-center">DCS Textiles</h3> -->
 			<div class="row">
-				<div class="col-lg-4 col-md-4 mb-4">
+				<div class="col-xl-3 col-md-6 mb-4">
 					<div class="card text-md-left text-center">
 						<div class="card-top-img">
 							<img src="https://ucarecdn.com/04ebe392-40fc-4be1-8fe4-fa238ca07181/lr1.jpeg" class="img-fluid" alt="">
@@ -108,7 +108,7 @@
 						</div>
 					</div>
 				</div>
-				<div class="col-lg-4 col-md-4 mb-4">
+				<div class="col-xl-3 col-md-6 mb-4">
 					<div class="card text-md-left text-center">
 						<div class="card-top-img">
 							<img src="https://ucarecdn.com/4ca1db93-cb4d-49af-959f-0345b9f464a9/diningarea1.jpeg" class="img-fluid" alt="">
@@ -117,7 +117,7 @@
 						</div>
 					</div>
 				</div>
-				<div class="col-lg-4 col-md-4 mb-4">
+				<div class="col-xl-3 col-md-6 mb-4">
 					<div class="card text-md-left text-center">
 						<div class="card-top-img">
 							<img src="https://ucarecdn.com/85b67ff0-612e-4a7e-9200-c96d9b7de035/outdoorarea1.jpeg" class="img-fluid" alt="">
@@ -126,7 +126,7 @@
 						</div>
 					</div>
 				</div>
-				<div class="col-lg-4 col-md-4 mb-4">
+				<div class="col-xl-3 col-md-6 mb-4">
 					<div class="card text-md-left text-center">
 						<div class="card-top-img">
 							<img src="https://ucarecdn.com/8099082f-c9b1-4e84-bf93-c7d0229da822/bathroom1.jpeg" class="img-fluid" alt="">
@@ -238,107 +238,149 @@
 		<div class="container">
 			<h3 class="mb-5 heading text-center">Product Category</h3>
 			<div class="row">
+					<!-- Rugs -->
 					<div class="col-lg-3 col-md-3 col-6 py-3">
-						<a href="./products">
+						<a href="./products?category=rugs">
 							<div class="promob-col">
 								<div class="promo-box text-center">
-									<img src="images/p1.jpeg" class="img-fluid" alt="">
+									<img src="images/p1.jpeg" class="img-fluid" alt="Rugs">
 									<h3 class="product-name text-uppercase">RUGS</h3>
 								</div>
 							</div>
 						</a>
 					</div>
+
+					<!-- Bathmats -->
 					<div class="col-lg-3 col-md-3 col-6 py-3">
-						<a href="./products">
+						<a href="./products?category=bathmats">
 							<div class="promob-col">
 								<div class="promo-box text-center">
-									<img src="images/p2.jpeg" class="img-fluid" alt="">
+									<img src="images/p2.jpeg" class="img-fluid" alt="Bathmats">
 									<h3 class="product-name text-uppercase">BATHMATS</h3>
 								</div>
 							</div>
 						</a>
 					</div>
+
+					<!-- Throws -->
 					<div class="col-lg-3 col-md-3 col-6 py-3">
-						<a href="./products">
+						<a href="./products?category=throws">
 							<div class="promob-col">
 								<div class="promo-box text-center">
-									<img src="images/p2.jpeg" class="img-fluid" alt="">
+									<img src="images/p2.jpeg" class="img-fluid" alt="Throws">
 									<h3 class="product-name text-uppercase">THROWS</h3>
 								</div>
 							</div>
 						</a>
 					</div>
+
+					<!-- Poufs and Ottomans -->
 					<div class="col-lg-3 col-md-3 col-6 py-3">
-						<a href="./products">
+						<a href="./products?category=poufs-and-ottomans">
 							<div class="promob-col">
 								<div class="promo-box text-center">
-									<img src="images/p3.jpeg" class="img-fluid" alt="">
+									<img src="images/p3.jpeg" class="img-fluid" alt="Poufs and Ottomans">
 									<h3 class="product-name text-uppercase">POUFS and OTTOMANS</h3>
 								</div>
 							</div>
 						</a>
 					</div>
+
+					<!-- Towels -->
 					<div class="col-lg-3 col-md-3 col-6 py-3">
-						<a href="./products">
+						<a href="./products?category=towels">
 							<div class="promob-col">
 								<div class="promo-box text-center">
-									<img src="images/p3.jpeg" class="img-fluid" alt="">
+									<img src="images/p3.jpeg" class="img-fluid" alt="Towels">
 									<h3 class="product-name text-uppercase">TOWELS</h3>
 								</div>
 							</div>
 						</a>
 					</div>
+
+					<!-- Baskets -->
 					<div class="col-lg-3 col-md-3 col-6 py-3">
-						<a href="./products">
+						<a href="./products?category=baskets">
 							<div class="promob-col">
 								<div class="promo-box text-center">
-									<img src="images/p4.jpeg" class="img-fluid" alt="">
+									<img src="images/p4.jpeg" class="img-fluid" alt="Baskets">
 									<h3 class="product-name text-uppercase">BASKETS</h3>
 								</div>
 							</div>
 						</a>
 					</div>
+
+					<!-- Placemats -->
 					<div class="col-lg-3 col-md-3 col-6 py-3">
-						<a href="./products">
+						<a href="./products?category=placemats">
 							<div class="promob-col">
 								<div class="promo-box text-center">
-									<img src="images/p5.jpeg" class="img-fluid" alt="">
+									<img src="images/p5.jpeg" class="img-fluid" alt="Placemats">
 									<h3 class="product-name text-uppercase">PLACEMATS</h3>
 								</div>
 							</div>
 						</a>
 					</div>
+
+					<!-- Runners -->
 					<div class="col-lg-3 col-md-3 col-6 py-3">
-						<a href="./products">
+						<a href="./products?category=runners">
 							<div class="promob-col">
 								<div class="promo-box text-center">
-									<img src="images/p6.jpeg" class="img-fluid" alt="">
+									<img src="images/p6.jpeg" class="img-fluid" alt="Runners">
 									<h3 class="product-name text-uppercase">RUNNER</h3>
 								</div>
 							</div>
 						</a>
 					</div>
+
+					<!-- Carpets -->
 					<div class="col-lg-3 col-md-3 col-6 py-3">
-						<a href="./products">
+						<a href="./products?category=carpets">
 							<div class="promob-col">
 								<div class="promo-box text-center">
-									<img src="images/p7.jpeg" class="img-fluid" alt="">
+									<img src="images/p7.jpeg" class="img-fluid" alt="Carpets">
 									<h3 class="product-name text-uppercase">CARPETS</h3>
 								</div>
 							</div>
 						</a>
 					</div>
+
+					<!-- Cushions -->
 					<div class="col-lg-3 col-md-3 col-6 py-3">
-						<a href="./products">
+						<a href="./products?category=cushions">
 							<div class="promob-col">
 								<div class="promo-box text-center">
-									<img src="images/p8.jpeg" class="img-fluid" alt="">
+									<img src="images/p8.jpeg" class="img-fluid" alt="Cushions">
 									<h3 class="product-name text-uppercase">CUSHIONS</h3>
 								</div>
 							</div>
 						</a>
 					</div>
-				
+
+					<!-- Cushions -->
+					<div class="col-lg-3 col-md-3 col-6 py-3">
+							<a href="./products?category=cushions">
+							<div class="promob-col">
+								<div class="promo-box text-center">
+									<img src="images/p8.jpeg" class="img-fluid" alt="Cushions">
+									<h3 class="product-name text-uppercase">CUSHIONS</h3>
+								</div>
+							</div>
+						</a>
+					</div>
+
+					<!-- Cushions -->
+					<div class="col-lg-3 col-md-3 col-6 py-3">
+						<a href="./products?category=cushions">
+							<div class="promob-col">
+								<div class="promo-box text-center">
+									<img src="images/p8.jpeg" class="img-fluid" alt="Cushions">
+									<h3 class="product-name text-uppercase">CUSHIONS</h3>
+								</div>
+							</div>
+						</a>
+					</div>
 			</div>
 		</div>
 	</section>

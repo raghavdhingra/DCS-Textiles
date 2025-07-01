@@ -30,16 +30,16 @@
 				<li class="nav-item dropdown">
 					<a class="nav-link  dropdown-toggle" href="#" data-toggle="dropdown"><b>Products</b></a>
 					<ul class="dropdown-menu fade-up">
-						<li><a class="dropdown-item" href="./products">Rugs</a></li>
-						<li><a class="dropdown-item" href="./products">Cushions </a></li>
-						<li><a class="dropdown-item" href="./products">Throws </a></li>
-						<li><a class="dropdown-item" href="./products">Poufs</a></li>
-						<li><a class="dropdown-item" href="./products">Carpets</a></li>
-						<li><a class="dropdown-item" href="./products">Placemats</a></li>
-						<li><a class="dropdown-item" href="./products">Baskets</a></li>
-						<li><a class="dropdown-item" href="./products">Towels</a></li>
-						<li><a class="dropdown-item" href="./products">Runner</a></li>
-						<li><a class="dropdown-item" href="./products">Bathmats</a></li>
+						<li><a class="dropdown-item" href="./products?category=rugs">Rugs</a></li>
+						<li><a class="dropdown-item" href="./products?category=cushions">Cushions </a></li>
+						<li><a class="dropdown-item" href="./products?category=throws">Throws </a></li>
+						<li><a class="dropdown-item" href="./products?category=poufs-and-ottomans">Poufs</a></li>
+						<li><a class="dropdown-item" href="./products?category=carpets">Carpets</a></li>
+						<li><a class="dropdown-item" href="./products?category=placemats">Placemats</a></li>
+						<li><a class="dropdown-item" href="./products?category=baskets">Baskets</a></li>
+						<li><a class="dropdown-item" href="./products?category=towels">Towels</a></li>
+						<li><a class="dropdown-item" href="./products?category=runners">Runners</a></li>
+						<li><a class="dropdown-item" href="./products?category=bathmats">Bathmats</a></li>
 						<!-- <li><a class="dropdown-item" href="./products">Tufted Rugs and carpets</a></li> -->
 						<!-- <li><a class="dropdown-item" href="./products">Loom Products</a></li> -->
 					</ul>
