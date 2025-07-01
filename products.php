@@ -1,21 +1,3 @@
-<?php
-$allowedCategories = [
-    'rugs', 'baskets', 'bathmats', 'carpets',
-    'cushions', 'placemats', 'poufs-and-ottomans',
-    'runners', 'throws', 'towels'
-];
-
-$productSlug = null;
-
-$category = null;
-if (preg_match('/\/product\/([a-zA-Z0-9\-]+)/', $_SERVER['REQUEST_URI'], $matches)) {
-    $slug = $matches[1];
-    if (in_array($slug, $allowedCategories)) {
-        $category = $slug;
-    }
-}
-?>
-
 <!DOCTYPE html>
 <html lang="en">
 
@@ -42,8 +24,8 @@ if (preg_match('/\/product\/([a-zA-Z0-9\-]+)/', $_SERVER['REQUEST_URI'], $matche
             <a href="./">Home</a>
             <span class="px-1"> / </span>
             <a href="products" class="active-product"> Products</a>
-            <!-- <span class="px-1"> / </span> -->
-            <!-- <span class="active-product"> Electrical & Mechanical Division</span> -->
+            <span class="px-1"> / </span>
+            <span class="active-product" id="active-product-category"></span>
         </div>
 
 
@@ -217,11 +199,25 @@ if (preg_match('/\/product\/([a-zA-Z0-9\-]+)/', $_SERVER['REQUEST_URI'], $matche
         'runners', 'throws', 'towels'
     ];
 
+		const categoryObject = {
+			'rugs': 'Rugs',
+			'baskets': 'Baskets',
+			'bathmats': 'Bathmats',
+			'carpets': 'Carpets',
+			'cushions': 'Cushions',
+			'placemats': 'Placemats',
+			'poufs-and-ottomans': 'Poufs and Ottomans',
+			'runners': 'Runners',
+			'throws': 'Throws',
+			'towels': 'Towels'
+		}
+
     const categoryFromURL = window.location.search.split('=')[1];
 
     if (!allowedCategories.includes(categoryFromURL)) {
         document.getElementById('invalid-section-container').innerHTML = invalidSection;
     } else {
+		document.getElementById('active-product-category').innerHTML = `<a href="./products?category=${categoryFromURL}">${categoryObject[categoryFromURL] || "Product Category"}</a>`;
         const gallery = document.getElementById('lightgallery');
         for (let i = 1; i < 38; i++) {
             const imgPath = `images/product/${categoryFromURL}/p${i}.jpeg`;
