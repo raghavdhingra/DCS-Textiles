@@ -167,13 +167,13 @@
 						</a>
 					</div>
 
-					<!-- Cushions -->
+					<!-- Prayer Mats -->
 					<div class="col-lg-3 col-md-3 col-6 py-3">
-						<a href="./products?category=cushions">
+						<a href="./products?category=Prayer Mats">
 							<div class="promob-col">
 								<div class="promo-box text-center">
-									<img src="images/p8.jpeg" class="img-fluid" alt="Cushions">
-									<h3 class="product-name text-uppercase">CUSHIONS</h3>
+									<img src="images/p11.jpeg" class="img-fluid" alt="Prayer Mats">
+									<h3 class="product-name text-uppercase">Prayer Mats</h3>
 								</div>
 							</div>
 						</a>
