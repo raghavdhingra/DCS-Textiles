@@ -267,7 +267,7 @@
 						<a href="./products?category=throws">
 							<div class="promob-col">
 								<div class="promo-box text-center">
-									<img src="images/p2.jpeg" style="border-radius: 20px;" class="img-fluid" alt="Throws">
+									<img src="images/p3.jpeg" style="border-radius: 20px;" class="img-fluid" alt="Throws">
 									<h3 class="product-name text-uppercase">THROWS</h3>
 								</div>
 							</div>
@@ -279,7 +279,7 @@
 						<a href="./products?category=poufs-and-ottomans">
 							<div class="promob-col">
 								<div class="promo-box text-center">
-									<img src="images/p3.jpeg" style="border-radius: 20px;" class="img-fluid" alt="Poufs and Ottomans">
+									<img src="images/p4.jpeg" style="border-radius: 20px;" class="img-fluid" alt="Poufs and Ottomans">
 									<h3 class="product-name text-uppercase">POUFS and OTTOMANS</h3>
 								</div>
 							</div>
@@ -291,7 +291,7 @@
 						<a href="./products?category=towels">
 							<div class="promob-col">
 								<div class="promo-box text-center">
-									<img src="images/p3.jpeg" style="border-radius: 20px;" class="img-fluid" alt="Towels">
+									<img src="images/p5.jpeg" style="border-radius: 20px;" class="img-fluid" alt="Towels">
 									<h3 class="product-name text-uppercase">TOWELS</h3>
 								</div>
 							</div>
@@ -303,7 +303,7 @@
 						<a href="./products?category=baskets">
 							<div class="promob-col">
 								<div class="promo-box text-center">
-									<img src="images/p4.jpeg" style="border-radius: 20px;" class="img-fluid" alt="Baskets">
+									<img src="images/p6.jpeg" style="border-radius: 20px;" class="img-fluid" alt="Baskets">
 									<h3 class="product-name text-uppercase">BASKETS</h3>
 								</div>
 							</div>
@@ -315,7 +315,7 @@
 						<a href="./products?category=placemats">
 							<div class="promob-col">
 								<div class="promo-box text-center">
-									<img src="images/p5.jpeg" style="border-radius: 20px;" class="img-fluid" alt="Placemats">
+									<img src="images/p7.jpeg" style="border-radius: 20px;" class="img-fluid" alt="Placemats">
 									<h3 class="product-name text-uppercase">PLACEMATS</h3>
 								</div>
 							</div>
@@ -327,7 +327,7 @@
 						<a href="./products?category=runners">
 							<div class="promob-col">
 								<div class="promo-box text-center">
-									<img src="images/p6.jpeg" style="border-radius: 20px;" class="img-fluid" alt="Runners">
+									<img src="images/p8.jpeg" style="border-radius: 20px;" class="img-fluid" alt="Runners">
 									<h3 class="product-name text-uppercase">RUNNER</h3>
 								</div>
 							</div>
@@ -339,7 +339,7 @@
 						<a href="./products?category=carpets">
 							<div class="promob-col">
 								<div class="promo-box text-center">
-									<img src="images/p7.jpeg" style="border-radius: 20px;" class="img-fluid" alt="Carpets">
+									<img src="images/p9.jpeg" style="border-radius: 20px;" class="img-fluid" alt="Carpets">
 									<h3 class="product-name text-uppercase">CARPETS</h3>
 								</div>
 							</div>
@@ -351,7 +351,7 @@
 						<a href="./products?category=cushions">
 							<div class="promob-col">
 								<div class="promo-box text-center">
-									<img src="images/p8.jpeg" style="border-radius: 20px;" class="img-fluid" alt="Cushions">
+									<img src="images/p10.jpeg" style="border-radius: 20px;" class="img-fluid" alt="Cushions">
 									<h3 class="product-name text-uppercase">CUSHIONS</h3>
 								</div>
 							</div>
@@ -363,7 +363,7 @@
 							<a href="./products?category=cushions">
 							<div class="promob-col">
 								<div class="promo-box text-center">
-									<img src="images/p8.jpeg" style="border-radius: 20px;" class="img-fluid" alt="Cushions">
+									<img src="images/p11.jpeg" style="border-radius: 20px;" class="img-fluid" alt="Cushions">
 									<h3 class="product-name text-uppercase">CUSHIONS</h3>
 								</div>
 							</div>
@@ -375,7 +375,7 @@
 						<a href="./products?category=cushions">
 							<div class="promob-col">
 								<div class="promo-box text-center">
-									<img src="images/p8.jpeg" style="border-radius: 20px;" class="img-fluid" alt="Cushions">
+									<img src="images/p12.jpeg" style="border-radius: 20px;" class="img-fluid" alt="Cushions">
 									<h3 class="product-name text-uppercase">CUSHIONS</h3>
 								</div>
 							</div>
