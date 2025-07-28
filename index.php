@@ -360,7 +360,7 @@
 
 					<!-- Cushions -->
 					<div class="col-xl-2 col-md-3 col-6 py-3">
-							<a href="./products?category=prayer mats">
+							<a href="./products?category=prayer-mats">
 							<div class="promob-col">
 								<div class="promo-box text-center">
 									<img src="images/p11.jpeg" style="border-radius: 20px;" class="img-fluid" alt="Prayer Mats">
@@ -372,7 +372,7 @@
 
 					<!-- Cushions -->
 					<div class="col-xl-2 col-md-3 col-6 py-3">
-						<a href="./products?category=pet beds">
+						<a href="./products?category=pet-beds">
 							<div class="promob-col">
 								<div class="promo-box text-center">
 									<img src="images/p12.jpeg" style="border-radius: 20px;" class="img-fluid" alt="Pet Beds">

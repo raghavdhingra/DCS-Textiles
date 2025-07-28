@@ -169,7 +169,7 @@
 
 					<!-- Prayer Mats -->
 					<div class="col-lg-3 col-md-3 col-6 py-3">
-						<a href="./products?category=Prayer Mats">
+						<a href="./products?category=prayer-mats">
 							<div class="promob-col">
 								<div class="promo-box text-center">
 									<img src="images/p11.jpeg" class="img-fluid" alt="Prayer Mats">
@@ -190,13 +190,25 @@
 							</div>
 						</a>
 					</div>
+
+					<!-- Pet Beds -->
+					<div class="col-lg-3 col-md-3 col-6 py-3">
+						<a href="./products?category=pet-beds">
+							<div class="promob-col">
+								<div class="promo-box text-center">
+									<img src="images/p12.jpeg" class="img-fluid" alt="Pet Beds">
+									<h3 class="product-name text-uppercase">PET BEDS</h3>
+								</div>
+							</div>
+						</a>
+					</div>
 			</div>
 		</div>
 	</section>`;
     const allowedCategories = [
         'rugs', 'baskets', 'bathmats', 'carpets',
         'cushions', 'placemats', 'poufs-and-ottomans',
-        'runners', 'throws', 'towels'
+        'runners', 'throws', 'towels', 'prayer-mats', 'pet-beds'
     ];
 
 		const categoryObject = {
@@ -209,7 +221,9 @@
 			'poufs-and-ottomans': 'Poufs and Ottomans',
 			'runners': 'Runners',
 			'throws': 'Throws',
-			'towels': 'Towels'
+			'towels': 'Towels',
+			'prayer-mats': 'Prayer Mats',
+			'pet-beds': 'Pet Beds'
 		}
 
     const categoryFromURL = window.location.search.split('=')[1];

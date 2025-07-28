@@ -40,6 +40,8 @@
 						<li><a class="dropdown-item" href="./products?category=towels">Towels</a></li>
 						<li><a class="dropdown-item" href="./products?category=runners">Runners</a></li>
 						<li><a class="dropdown-item" href="./products?category=bathmats">Bathmats</a></li>
+						<li><a class="dropdown-item" href="./products?category=prayer-mats">Prayer Mats</a></li>
+						<li><a class="dropdown-item" href="./products?category=pet-beds">Pet Beds</a></li>
 						<!-- <li><a class="dropdown-item" href="./products">Tufted Rugs and carpets</a></li> -->
 						<!-- <li><a class="dropdown-item" href="./products">Loom Products</a></li> -->
 					</ul>
