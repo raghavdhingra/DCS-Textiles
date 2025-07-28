@@ -233,21 +233,21 @@
     } else {
 		document.getElementById('active-product-category').innerHTML = `<a href="./products?category=${categoryFromURL}">${categoryObject[categoryFromURL] || "Product Category"}</a>`;
         const gallery = document.getElementById('lightgallery');
-        // for (let i = 1; i < 38; i++) {
-        //     const imgPath = `images/product/${categoryFromURL}/p${i}.jpeg`;
-        //     const li = document.createElement('li');
-        //     li.setAttribute('data-responsive', imgPath);
-        //     li.setAttribute('data-src', imgPath);
-        //     li.innerHTML = `
-        //         <a href="">
-        //             <img class="img-responsive" src="${imgPath}" onerror="this.onerror=null; this.src='images/coming-soon.jpg'">
-        //             <div class="demo-gallery-poster">
-        //                 <img src="https://sachinchoolur.github.io/lightgallery.js/static/img/zoom.png">
-        //             </div>
-        //         </a>
-        //     `;
-        //     gallery.appendChild(li);
-        // }
+        for (let i = 1; i < 15; i++) {
+            const imgPath = `images/product/${categoryFromURL}/p${i}.jpeg`;
+            const li = document.createElement('li');
+            li.setAttribute('data-responsive', imgPath);
+            li.setAttribute('data-src', imgPath);
+            li.innerHTML = `
+                <a href="">
+                    <img class="img-responsive" src="${imgPath}" onerror="this.onerror=null; this.src='images/coming-soon.jpg'">
+                    <div class="demo-gallery-poster">
+                        <img src="https://sachinchoolur.github.io/lightgallery.js/static/img/zoom.png">
+                    </div>
+                </a>
+            `;
+            gallery.appendChild(li);
+        }
     }
 </script>
 
