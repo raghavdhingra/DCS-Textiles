@@ -3,9 +3,8 @@
         <div class="row">
             <div class="col-lg-3 col-md-4">
                 <div class="footer-about">
-                    <img src="images/3c-logo-white.png" height="40" alt="">
                     <p class="mb-md-0 mb-2"><b>Let’s Co-Create With You:</b></p>
-                    <p>You bring the idea. We bring the loom, the color, the yarn, and the know-how to bring it to life — be it custom rugs, made-to-order textiles, or bulk manufacturing.</p>
+                    <p class="mt-3">You bring the idea. We bring the loom, the color, the yarn, and the know-how to bring it to life — be it custom rugs, made-to-order textiles, or bulk manufacturing.</p>
                 </div>
             </div>
             <div class="col-lg-3 col-md-4">

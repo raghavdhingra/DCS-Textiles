@@ -46,8 +46,8 @@
 						<!-- <li><a class="dropdown-item" href="./products">Loom Products</a></li> -->
 					</ul>
 				</li>
-				<li class="nav-item "> <a class="nav-link" href="./story"><b>About</b></a> </li>
-				<li class="nav-item "> <a class="nav-link" href="./infrastructure"><b>Blog</b></a> </li>
+				<li class="nav-item "> <a class="nav-link" href="./about"><b>About</b></a> </li>
+				<li class="nav-item "> <a class="nav-link" href="./infrastructure"><b>Infrastructure</b></a> </li>
 				<!-- <li class="nav-item "> <a class="nav-link" href="./about">About Us </a> </li> -->
 				<li class="nav-item"> <a class="nav-link" href="./contact"><b>Contact</b></a> </li>
 			</ul>
