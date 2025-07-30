@@ -59,7 +59,7 @@
                         </a>
                         <a href="tel:+918053531395">
                             <span class="fa fa-phone"></span>
-                            +91 918053531395
+                            +91 8053531395
                         </a>
                         <a href="javascript:void(0)">
                             <span class="fa fa-map-marker"></span>
