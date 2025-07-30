@@ -47,7 +47,7 @@
 					</ul>
 				</li>
 				<li class="nav-item "> <a class="nav-link" href="./about"><b>About</b></a> </li>
-				<li class="nav-item "> <a class="nav-link" href="./strength"><b>Strength</b></a> </li>
+				<li class="nav-item "> <a class="nav-link" href="./infrastructure"><b>Strength</b></a> </li>
 				<!-- <li class="nav-item "> <a class="nav-link" href="./about">About Us </a> </li> -->
 				<li class="nav-item"> <a class="nav-link" href="./contact"><b>Contact</b></a> </li>
 			</ul>
