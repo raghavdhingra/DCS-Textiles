@@ -23,7 +23,7 @@
             <div class="row">
                <div class="col-md-12 mb-4">
                     <div class="card">
-                        <h4>Vision</h4>
+                        <!-- <h4>Vision</h4> -->
                         <ul>
                             <p><b>Redefining elegance with handmade rugs from India</b></p>
                             <p>At DCS Textiles, we envision redefining elegance through exquisite rugs that captivate and lead in authentic, handcrafted home furnishings worldwide.</p>
