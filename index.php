@@ -249,7 +249,7 @@
 
 	<section class="popular-products">
 		<div class="container" style="max-width: 1600px;">
-		<h3 class="mb-5 heading text-center">MITTAL DALEGA YHA</h3>
+		<h3 class="mb-5 heading text-center">Bring Christmas charm to your home with handcrafted decor and cozy textiles.</h3>
 			<!-- <h3 class="mb-4 heading text-center">DCS Textiles</h3> -->
 			<div class="row">
 				<div class="col-xl-3 col-md-6 mb-4">
@@ -257,7 +257,7 @@
 						<div class="card-top-img">
 							<img src="https://ucarecdn.com/04ebe392-40fc-4be1-8fe4-fa238ca07181/lr1.jpeg" class="img-fluid" alt="">
 							<div class="black"></div>
-							<h3 class="product-name text-uppercase">living room</h3>
+							<h3 class="product-name text-uppercase">living area</h3>
 						</div>
 					</div>
 				</div>
