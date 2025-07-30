@@ -98,7 +98,7 @@
 	<section class="promo-banner py-md-5  pt-0">
 		<div class="container" style="max-width: 1600px;">
 			<h3 class="mb-5 heading text-center mt-4 ">Product Category</h3>
-			<p class="text-center">We offer a wide range of products, including rugs, bathmats, throws, poufs and ottomans, towels, baskets, placemats, runners, carpets, cushions, prayer mats, and pet beds. Our products are made with high-quality materials and are designed to meet the needs of our customers.</p>
+			<p class="text-center">Give a cozy look to your space with our designs.</p>
 			<div class="row">
 					<!-- Rugs -->
 					<div class="col-xl-2 col-md-3 col-6 py-3">
