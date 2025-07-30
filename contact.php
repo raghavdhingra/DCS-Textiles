@@ -48,7 +48,7 @@
                 </div>
                 <div class="col-lg-6">
                     <div class="contact-info">
-                        <h3>Info</h3>
+                        <h3>Quick Contacts</h3>
                         <a href="mailto:admin@dcstextiles.com">
                             <span class="fa fa-envelope-o"></span>
                             admin@dcstextiles.com
@@ -57,7 +57,7 @@
                             <span class="fa fa-phone"></span>
                             +91 9466455811
                         </a>
-                        <a href="tel:+91918053531395">
+                        <a href="tel:+918053531395">
                             <span class="fa fa-phone"></span>
                             +91 918053531395
                         </a>
