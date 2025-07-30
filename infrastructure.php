@@ -19,19 +19,17 @@
         <div class="card h-100">
          <div class="row">
              <div class="col-lg-5">
-                 <img src="./images/infra.jpg" class="img-fluid">
+                 <img src="https://ucarecdn.com/55c4fd53-0f34-487e-b261-483fa54832d2/infra1.jpg" class="img-fluid">
              </div>
              <div class="col-lg-7">
-                 <ul style="list-style: auto;">
-                     <li>DCS Textiles direct manufacturing and marketing operations stretch over 1,00,000 sq.ft. area across city of handloom Panipat,with work force more than 350 personal.</li>
-                     <li>Our production facility is equipped with state-of-the-art machineries and we work very closely with a diverse network of vendors from different parts of India to cater to the needs of our design centric customers worldwide.</li>
-                     <li>All Under One Roof strictly..</li>
-                     <li>High quality Mink Blanket with production around 10000 kg per day.</li>
-                     <li>Carpet handloom and tufted with capacity225000 per square feet per month</li>
-                     <li>High quality, exquisite punja and pit loom rugs 150000 per square feet per month.</li>
-                     <li>Bath rugs/mats minimum in house yield 200000 sq. feet per month..</li>
-                     <li>Other then this having great potential for production of all types of home décor, cushion cover, pillow, sham, table linen ,bed linen, kitchen linen, pouf, baskets, bean bag, blanket etc.</li>
-                     <li>Checking, Finishing & Packaging, weaving all in state of art facility strictly in house coping up stern International standards</li>
+				    <ul style="list-style: auto; text-align: justify;" class="px-3">
+						<li class="mb-3 py-1"><B>Manufacturing Unit:</B> DCS Textiles operates several facilities in the textile city of Panipat, India, encompassing an area of over 100,000+ square feet.</li>
+						<li class="mb-3 py-1"><B>In-House Production:</B> The organization employs a diverse array of machinery, including power looms and pit looms, which are managed by skilled weavers under professional supervision to ensure the highest quality output.</li>
+						<li class="mb-3 py-1"><B>Artisan Network:</B> DCS Textiles has a family of 300+ skilled weavers from various states across India, who collectively exhibit their exceptional craftsmanship.</li>
+						<li class="mb-3 py-1"><B>Skilled Personnel:</B> The company has a workforce of over 50+ talented individuals who contribute to every phase of product development, ensuring optimal results.</li>
+						<li class="mb-3 py-1"><B>Sampling:</B> DCS Textiles consistently pursues innovative strategies to enhance its offerings, focusing on custom design, sampling, and trend development to meet evolving market demands.</li>
+						<li class="mb-3 py-1"><B>Quality Control:</B> The organization's director asserts, "A product of inferior quality is not a product." Accordingly, a dedicated team is assigned to uphold rigorous standards that align with global export criteria.</li>
+						<li class="mb-3 py-1"><B>Compliance:</B> Attaining certification fosters trust among stakeholders. DCS Textiles has secured these certifications without any challenge, due to its ethical management practices and commitment to environmentally sustainable production methodologies.</li>
                  </ul>
              </div>
          </div>
