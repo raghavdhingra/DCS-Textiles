@@ -11,7 +11,7 @@
    <?php include('header.php') ?>
    <section class="hero-section">
     <div class="container">
-        <h4>Infrastructure</h4>
+        <h4>Strength</h4>
     </div>
 </section>
 <section class="missionvision py-5">
