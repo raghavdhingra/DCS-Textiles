@@ -18,7 +18,7 @@
     <div class="container">
         <div class="card h-100">
          <div class="row">
-             <div class="col-lg-5">
+				<div class="col-lg-5 d-flex align-items-center justify-content-center">
                  <img src="https://ucarecdn.com/55c4fd53-0f34-487e-b261-483fa54832d2/infra1.jpg" class="img-fluid">
              </div>
              <div class="col-lg-7">
