@@ -23,7 +23,7 @@
             <div class="row">
                 <div class="col-md-12 mb-4">
                     <div class="card">
-                        <h4>Mission</h4>
+                        <!-- <h4>Mission</h4> -->
                         <ul>
                             <p><b>Crafting quality rugs for over 51 countries</b></p>
                             <p>At DCS Textiles, we are on a mission to craft excellence in every rug we create through meticulous attention to detail and to deliver timeless, artisan-made textiles with care and quality.</p>
